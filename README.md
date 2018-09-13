@@ -1,6 +1,6 @@
 # Network Replay Generator
 
-Sample config file:
+### Sample config file:
 
 3way.2018.pcap
 
